@@ -21,10 +21,7 @@ import { ContentComponent } from './pages/content/content.component';
     HomeComponent,
     ContentComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule],
   providers: [],
   bootstrap: [AppComponent]
 })
